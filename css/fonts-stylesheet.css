@@ -1,0 +1,103 @@
+@font-face {
+	font-family: 'Almarena';
+	src: url('../css/fonts/AlmarenaBold.woff2') format('woff2'), url('../css/fonts/AlmarenaBold.woff') format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Almarena Display';
+	src: url('../css/fonts/AlmarenaDisplayBold.woff2') format('woff2'),
+		url('../css/fonts/AlmarenaDisplayBold.woff') format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Almarena Display';
+	src: url('../css/fonts/AlmarenaDisplayLight.woff2') format('woff2'),
+		url('../css/fonts/AlmarenaDisplayLight.woff') format('woff');
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Almarena';
+	src: url('../css/fonts/AlmarenaLight.woff2') format('woff2'), url('../css/fonts/AlmarenaLight.woff') format('woff');
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Almarena';
+	src: url('../css/fonts/AlmarenaRegular.woff2') format('woff2'),
+		url('../css/fonts/AlmarenaRegular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Almarena Display';
+	src: url('../css/fonts/AlmarenaDisplayRegular.woff2') format('woff2'),
+		url('../css/fonts/AlmarenaDisplayRegular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Almarena Display';
+	src: url('../css/fonts/AlmarenaDisplayRegular.woff2') format('woff2'),
+		url('../css/fonts/AlmarenaDisplayRegular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Almarena';
+	src: url('../css/fonts/AlmarenaBold.woff2') format('woff2'), url('../css/fonts/AlmarenaBold.woff') format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Almarena Display';
+	src: url('../css/fonts/AlmarenaDisplayBold.woff2') format('woff2'),
+		url('../css/fonts/AlmarenaDisplayBold.woff') format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Almarena Display';
+	src: url('../css/fonts/AlmarenaDisplayLight.woff2') format('woff2'),
+		url('../css/fonts/AlmarenaDisplayLight.woff') format('woff');
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Almarena';
+	src: url('../css/fonts/AlmarenaRegular.woff2') format('woff2'),
+		url('../css/fonts/AlmarenaRegular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Almarena';
+	src: url('../css/fonts/AlmarenaLight.woff2') format('woff2'), url('../css/fonts/AlmarenaLight.woff') format('woff');
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
